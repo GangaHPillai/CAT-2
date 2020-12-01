@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHRIST>
+<CS mid="M1">
+<STU-NAME>Ganga</STU-NAME>
+<STU-BRANCH>Bangalore</STU-BRANCH>
+<STU-COLLEGE>Christ University</STU-COLLEGE>
+<STU-EMAIL>ganga123@gmail.com</STU-EMAIL>
+</CS>
+<CS mid="M2">
+<STU-NAME>Aparna</STU-NAME>
+<STU-BRANCH>Kottayam</STU-BRANCH>
+<STU-COLLEGE>MG University</STU-COLLEGE>
+<STU-EMAIL>aparna04p@gmail.com</STU-EMAIL>
+</CS>
+<CS mid="M3">
+<STU-NAME>Irene</STU-NAME>
+<STU-BRANCH>Chennai</STU-BRANCH>
+<STU-COLLEGE>Anna University</STU-COLLEGE>
+<STU-EMAIL>irene.prince12@gmail.com</STU-EMAIL>
+</CS>
+<CS mid="M4">
+<STU-NAME>Anitta</STU-NAME>
+<STU-BRANCH>Hyderabad</STU-BRANCH>
+<STU-COLLEGE>Hyderabad University</STU-COLLEGE>
+<STU-EMAIL>anitta02@gmail.com</STU-EMAIL>
+</CS>
+</CHRIST>
